@@ -1,4 +1,4 @@
-baseURL = "https://doomer-test.netlify.com"
+baseURL = "https://doomer-test.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
